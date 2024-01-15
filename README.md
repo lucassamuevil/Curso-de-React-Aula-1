@@ -1,2 +1,2 @@
-# Curso-de-React-Aula-1
+# Lista de Tarefas (react)
 Criação de uma lista de tarefas utilizando react.
